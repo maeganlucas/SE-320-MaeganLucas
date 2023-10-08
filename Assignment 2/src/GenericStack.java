@@ -4,6 +4,8 @@
     Class: SE 320
     Professor: Dr. Akbas
     File: GenericStack.java
+    References:
+        ~ https://www.softwaretestinghelp.com/java-generic-array/
 */
 
 import java.lang.reflect.Array;
