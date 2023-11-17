@@ -9,6 +9,7 @@
  *  [1] “Java Read Files,” Java read files, https://www.w3schools.com/java/java_files_read.asp (accessed Nov. 17, 2023).
  *  [2] “Get the filepath from filename using Java,” Stack Overflow,
  *      https://stackoverflow.com/questions/13509822/get-the-filepath-from-filename-using-java (accessed Nov. 17, 2023).
+ *
  *  Reads from a text file, words.txt, and displays the words from the text file, without duplicates, in ascending order.
  **/
 
