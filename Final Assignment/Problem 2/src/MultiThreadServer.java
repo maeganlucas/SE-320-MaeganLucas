@@ -70,7 +70,10 @@ public class MultiThreadServer extends JFrame {
             this.socket = socket;
         }
 
-        /** Run a thread */
+        /** Run a thread
+
+            @modified by Maegan Lucas for problem 2
+         */
         public void run() {
             try {
                 // Create data input and output streams
