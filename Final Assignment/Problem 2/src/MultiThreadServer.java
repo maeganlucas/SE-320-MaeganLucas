@@ -3,10 +3,10 @@
  @author Dr. M. Ilhan Akbas
  @modified by Maegan Lucas
 
- Server, available of handling multiple clients, takes weight in kilograms
+ Server, capable of handling multiple clients, takes weight in kilograms
  and height in meters from client and provides Body Mass Index (BMI) to
  client.
- 
+
  */
 
 import java.io.*;
